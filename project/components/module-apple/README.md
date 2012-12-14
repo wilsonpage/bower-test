@@ -1,1 +1,0 @@
-An example component module built with SASS and Hogan.
