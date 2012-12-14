@@ -1,0 +1,9 @@
+{
+  "name": "module-apple",
+  "version": "0.1.0",
+  "description": "The web app components repository",
+  "author": "Wilson Page",
+  "dependencies": {
+  	"sass-globals": "../sass-globals"
+  }
+}

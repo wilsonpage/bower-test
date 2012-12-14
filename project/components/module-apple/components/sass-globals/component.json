@@ -1,0 +1,18 @@
+{
+  "name": "sass-globals",
+  "repo": "wilsonpage/sass-globals",
+  "description": "Demo sass globals",
+  "version": "0.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT",
+  "readme": "\n# component-globals\n\n  Demo component globals\n\n## Installation\n\n    $ component install wilsonpage/component-globals\n\n## API\n\n   \n\n## License\n\n  MIT\n",
+  "readmeFilename": "Readme.md",
+  "gitHead": "8142360212f438812643c377f8addaa06db38ac7",
+  "_id": "sass-globals@0.0.1",
+  "commit": "8142360212f438812643c377f8addaa06db38ac7",
+  "repository": {
+    "type": "local-repo",
+    "path": "../sass-globals"
+  }
+}

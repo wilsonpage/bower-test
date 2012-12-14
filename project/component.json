@@ -1,0 +1,9 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "description": "A demo project",
+  "dependencies": {
+  	"module-apple": "../module-apple"
+  },
+  "author": "Wilson Page"
+}
